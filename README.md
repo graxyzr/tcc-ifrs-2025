@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso para o Técni
 
 ## 🎯 Objetivo
 
-Desenvolver uma interface que capture, processe e exiba dados do veículo, permitindo a otimização de desempenho em competições. [cite: 1] O sistema é composto por um hardware (ESP32) que coleta e envia os dados, um backend para processamento e armazenamento, e um aplicativo mobile para visualização.
+Desenvolver uma interface que capture, processe e exiba dados do veículo, permitindo a otimização de desempenho em competições. O sistema é composto por um hardware (ESP32) que coleta e envia os dados, um backend para processamento e armazenamento, e um aplicativo mobile para visualização.
 
 ## 📊 Funcionalidades
 
@@ -127,3 +127,4 @@ npx react-native run-ios
   * **Pedro Henrique Rocha Oliveira**
   * **Eduardo Wenzel Brião** (Orientador)
   * **Serguei Nogueira da Silva** (Co-Orientador)
+
